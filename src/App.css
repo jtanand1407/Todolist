@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.user{
+  color: blue;
+
+}
+
+.Task{
+  background-color: rgb(46, 46, 218);
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.listval{
+  display: flex;
+  margin-top: 1rem;
+  justify-content: center;
+}
